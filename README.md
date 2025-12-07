@@ -4,10 +4,10 @@ This project uses machine learning to predict an NBA player's scoring tier (Low,
 
 ## Project Structure
 
-- `nba_scoring_project.ipynb`  
+- `nba project visuals.ipynb `  
   Main Jupyter notebook with data preprocessing, exploratory analysis, model training, evaluation, and plots.
 
-- `NBA_Scoring_Tiers_Report.pdf`  
+- `Final Project Machine Learning .pdf`  
   Final written report submitted for the course project.
 
 - `requirements.txt`  
